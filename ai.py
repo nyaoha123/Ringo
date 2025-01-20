@@ -125,3 +125,6 @@ class RingoAI:
         else:
             print("It's a draw!")
 
+# ゲーム開始
+game = Othello()
+game.play_game()
