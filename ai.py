@@ -96,7 +96,7 @@ def minimax(board, depth, maximizing_player, stone, alpha, beta):
                 break
         return min_eval
 
-class Kuma3nidaAI:
+class RingoAI:
     def face(self):
         return "🦾"
 
